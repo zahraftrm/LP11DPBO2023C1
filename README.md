@@ -19,5 +19,4 @@ Dapat melakukan perintah CRUD pada data pasien.
 4. Delete Data sebagai action pada halaman utama kemudian data terhapus
 
 ## DOKUMENTASI
-![video_preview](https://github.com/zahraftrm/LP11DPBO2023C1/assets/100985868/841188bb-47ed-444c-a27d-33aae93d639c)
-
+![video_preview](https://github.com/zahraftrm/LP11DPBO2023C1/assets/100985868/28cbd269-819c-4814-9cc3-be321280dd72)
