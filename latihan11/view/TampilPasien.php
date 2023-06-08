@@ -34,7 +34,7 @@ class TampilPasien implements KontrakPasienView
 			<td>" . $this->prosespasien->getTelepon($i) . "</td>
 			
 			<!-- Untuk edit data -->
-			<td><a href='form.php?id_edit=" . $i .  "' class='btn btn-success' '>Edit</a>
+			<td><a href='form.php?id_edit=" . $i .  "' class='btn btn-warning' '>Edit</a>
 			
 			<!-- Untuk hapus data -->
 			<a href='form.php?id_hapus=" . $this->prosespasien->getId($i) . "' class='btn btn-danger' '>Hapus</a></td>";
